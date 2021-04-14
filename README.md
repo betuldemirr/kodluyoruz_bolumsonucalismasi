@@ -1,2 +1,2 @@
 # kodluyoruz_bolumsonucalismasi
-HTML Bölüm Sonu Çalışması
+Kodluyoruz - HTML Bölüm Sonu Çalışması
